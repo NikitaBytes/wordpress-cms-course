@@ -12,7 +12,7 @@
 
 - 🔹 [Лабораторная работа №2: Введение в WordPress](lab2-wordpress-installation/) — **`lab2-wordpress-installation/`**
 
-- 🔹 Лабораторная работа №3 — **`lab3-.../`**
+- 🔹 [Лабораторная работа №3: Разработка простой темы WordPress](lab3-simple-theme/) — **`lab3-simple-theme/`**
 
 - 🔹 Лабораторная работа №4 — **`lab4-.../`**
 
