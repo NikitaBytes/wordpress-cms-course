@@ -16,7 +16,7 @@
 
 - 🔹 [Лабораторная работа №4: Разработка плагина для WordPress](lab4-wordpress-plugin/) — **`lab4-wordpress-plugin/`**
 
-- 🔹 Лабораторная работа №5 — **`lab5-.../`**
+- 🔹 [Лабораторная работа №5: Безопасность WordPress](lab5-wordpress-security/) — **lab5-wordpress-security/**
 
 ---
 
